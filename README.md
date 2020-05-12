@@ -59,11 +59,11 @@ Thanks to the lockdown due to the COVID-19, I got some myself time to hone the r
 - [x] Generate Genesis Block
 - [x] Generate Block with hash (SHA256)
 - [x] Generate Timestamp, Height of the block
-- [ ] Proof of Existence
 - [ ] Digital Assets
+- [ ] Proof of Existence
 - [ ] Basic Private-to-Public Blockchain Integration
 - [ ] Implemention of Merkel Root
-- [ ] Naunce
+- [ ] Nonce
 - [ ] Confirmations
 - [ ] Consensus Algorithm
    1. Proof of Work
@@ -83,6 +83,7 @@ Thanks to the lockdown due to the COVID-19, I got some myself time to hone the r
    5. Proof Of Burn
       - [What is Proof of Burn?](https://99bitcoins.com/what-is-proof-of-burn/)
 - [ ] Full Private-to-Public Ledger handshake
+
 ## How to Use
 
 #### Requirements
