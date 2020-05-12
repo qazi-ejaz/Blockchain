@@ -68,9 +68,8 @@ This should result in the creation of ``package.json``
 
 
 ## Inspiration
-
-[**Udacity**](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
-[**Presidential Initiative for Artificial Intelligence & Computing (PIAIC)**](https://www.piaic.org/block-chain) The mission of this program is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies. Experts are calling this the 4^th industrial revolution. We want Pakistan to become a global hub for AI, data science, cloud native computing, edge computing, blockchain, augmented reality, and internet of things.
+* [**Udacity**](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
+* [**Presidential Initiative for Artificial Intelligence & Computing (PIAIC)**](https://www.piaic.org/block-chain) The mission of this program is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies. Experts are calling this the 4^th industrial revolution. We want Pakistan to become a global hub for AI, data science, cloud native computing, edge computing, blockchain, augmented reality, and internet of things.
 
 
 ## Contact
