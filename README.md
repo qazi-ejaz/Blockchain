@@ -52,9 +52,6 @@ Please help keep this project alive! Donations are welcome and will go towards f
 
 #### Requirements
 
-A full TeX distribution is assumed.  [Various distributions for different operating systems (Windows, Mac, \*nix) are available](http://tex.stackexchange.com/q/55437) but TeX Live is recommended.
-You can [install TeX from upstream](http://tex.stackexchange.com/q/1092) (recommended; most up-to-date) or use `sudo apt-get install texlive-full` if you really want that.  (It's generally a few years behind.)
-
 #### Usage
 
 At a command prompt, run
@@ -68,19 +65,16 @@ This should result in the creation of ``package.json``
 
 
 ## Inspiration
-* [**Udacity**](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
-* [**Presidential Initiative for Artificial Intelligence & Computing (PIAIC)**](https://www.piaic.org/block-chain) The mission of this program is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies. Experts are calling this the 4^th industrial revolution. We want Pakistan to become a global hub for AI, data science, cloud native computing, edge computing, blockchain, augmented reality, and internet of things.
-
+* [**Presidential Initiative for Artificial Intelligence & Computing (PIAIC)**](https://www.piaic.org/block-chain) is aimed to develop highly skilled professionals to cope up with the challenges of **Fourth Industrial Revolution**. This program offers training in cutting edge technologies like AI, Data Science, Cloud Native Computing, Edge computing, **Blockchain**, Augmented Reality, and Internet of Things (IoT)
+* [**Udacity**](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309) A Nanodegree offered inlined with industrial requirements.
 
 ## Contact
 
-You are free to take my `.tex` file and modify it to create your own resume. Please don't use my resume for anything else without my permission, though!
+You are free to fork the repository and add the changes as per your own desire
 
-If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
-
-Good luck!
+Muchas Suerte!
 
 
 ## See Also
 
-* [Latex Beamer Projects](https://github.com/posquit0/hugo-awesome-identity) - A single-page Hugo theme to introduce yourself.
+* [Latex Beamer Projects](https://github.com/qazi-ejaz/Amplitude-Modulation) - Beamer Presentation for Control Systems and Programming.
