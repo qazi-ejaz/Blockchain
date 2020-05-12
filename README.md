@@ -48,6 +48,13 @@ Please help keep this project alive! Donations are welcome and will go towards f
 
 *Thank you for your support!*
 
+## Inspiration
+
+Thanks to the lockdown due to the COVID-19, I got some myself time to hone the rare skills which are in demand, and are the future of the industry!
+
+* [**Presidential Initiative for Artificial Intelligence & Computing (PIAIC)**](https://www.piaic.org/block-chain) is aimed to develop highly skilled professionals to cope up with the challenges of **Fourth Industrial Revolution**. This program offers training in cutting edge technologies like AI, Data Science, Cloud Native Computing, Edge computing, **Blockchain**, Augmented Reality, and Internet of Things (IoT)
+* [**Udacity**](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309) A Nanodegree offered inlined with industrial requirements.
+
 ## How to Use
 
 #### Requirements
@@ -62,11 +69,6 @@ $ npm init
 ```
 
 This should result in the creation of ``package.json``
-
-
-## Inspiration
-* [**Presidential Initiative for Artificial Intelligence & Computing (PIAIC)**](https://www.piaic.org/block-chain) is aimed to develop highly skilled professionals to cope up with the challenges of **Fourth Industrial Revolution**. This program offers training in cutting edge technologies like AI, Data Science, Cloud Native Computing, Edge computing, **Blockchain**, Augmented Reality, and Internet of Things (IoT)
-* [**Udacity**](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309) A Nanodegree offered inlined with industrial requirements.
 
 ## Contact
 
