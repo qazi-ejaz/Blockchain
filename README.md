@@ -58,10 +58,12 @@ Thanks to the lockdown due to the COVID-19, I got some myself time to hone the r
 ## Project Schedule and Targets
 - [x] Generate Genesis Block
 - [x] Generate Block with hash (SHA256)
-- [x] Generate 
-- [ ] Private-to-Public Blockchain Integration
-- [ ] Implement Merkel Root
-- [ ] Generate Naunce
+- [x] Generate Timestamp, Height of the block
+- [ ] Proof of Existence
+- [ ] Digital Assets
+- [ ] Basic Private-to-Public Blockchain Integration
+- [ ] Implemention of Merkel Root
+- [ ] Naunce
 - [ ] Confirmations
 - [ ] Consensus Algorithm
    1. Proof of Work
@@ -80,7 +82,7 @@ Thanks to the lockdown due to the COVID-19, I got some myself time to hone the r
       - [Proof of Activity Explained: A Hybrid Consensus Algorithm](https://www.coinbureau.com/blockchain/proof-of-activity-explained-hybrid-consensus-algorithm/)
    5. Proof Of Burn
       - [What is Proof of Burn?](https://99bitcoins.com/what-is-proof-of-burn/)
-
+- [ ] Full Private-to-Public Ledger handshake
 ## How to Use
 
 #### Requirements
