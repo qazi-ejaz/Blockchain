@@ -1,5 +1,5 @@
 <h1 align="center">
-   4rth Industrial Revolution: Blockchain
+   4<sup>th</sup> Industrial Revolution: Blockchain
     <br />
   <a href="https://github.com/qazi-ejaz/Blockchain" title="Getting Started">
     <img alt="Blockchain In-action" src="https://github.com/qazi-ejaz/Blockchain/blob/master/blockchain.jpg" width="500px" height="300px" />
