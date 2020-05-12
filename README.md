@@ -56,14 +56,14 @@ Thanks to the lockdown due to the COVID-19, I got some myself time to hone the r
 * [**Udacity**](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309) offers a Nanodegree program inlined with industrial requirements.
 
 ## Project Schedule
-[x] Generate Genesis Block
-[x] Generate Block with hash (SHA256)
-[x] Generate 
-[] Private-to-Public Blockchain Integration
-[] Implement Merkel Root
-[] Generate Naunce
-[] Confirmations
-[] Census Algorithm (PoW, PoS)
+- [x] Generate Genesis Block
+- [x] Generate Block with hash (SHA256)
+- [x] Generate 
+- [] Private-to-Public Blockchain Integration
+- [] Implement Merkel Root
+- [] Generate Naunce
+- [] Confirmations
+- [] Census Algorithm (PoW, PoS)
 
 ## How to Use
 
