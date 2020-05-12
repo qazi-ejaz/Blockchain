@@ -59,11 +59,11 @@ Thanks to the lockdown due to the COVID-19, I got some myself time to hone the r
 - [x] Generate Genesis Block
 - [x] Generate Block with hash (SHA256)
 - [x] Generate 
-- [] Private-to-Public Blockchain Integration
-- [] Implement Merkel Root
-- [] Generate Naunce
-- [] Confirmations
-- [] Census Algorithm (PoW, PoS)
+- [ ] Private-to-Public Blockchain Integration
+- [ ] Implement Merkel Root
+- [ ] Generate Naunce
+- [ ] Confirmations
+- [ ] Census Algorithm (PoW, PoS)
 
 ## How to Use
 
