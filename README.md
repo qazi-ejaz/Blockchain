@@ -41,7 +41,7 @@
 Please help keep this project alive! Donations are welcome and will go towards further development of this project.
 
     PayPal: paypal.me/qaziejaz
-    BTC:
+    BTC: bc1q5tcleeec5sxgds5regfefnjhutmx5aud5aejcvv0kpq00ua3le3s795kt8
     BCH: 
     ETH: 
     QTUM: 
