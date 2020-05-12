@@ -1,13 +1,13 @@
 <h1 align="center">
+   4rth Industrial Revolution: Blockchain
+    <br />
   <a href="https://github.com/qazi-ejaz/Blockchain" title="Getting Started">
-    <img alt="Blockchain In-action" src="https://github.com/qazi-ejaz/Blockchain/blob/master/blockchain.jpg" width="200px" height="200px" />
+    <img alt="Blockchain In-action" src="https://github.com/qazi-ejaz/Blockchain/blob/master/blockchain.jpg" width="500px" height="300px" />
   </a>
-  <br />
-  Blockchain
 </h1>
 
 <p align="center">
-  LaTeX template for your outstanding job application
+  Building Blockchain from Scratch
 </p>
 
 <div align="center">
