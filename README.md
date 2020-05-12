@@ -55,7 +55,7 @@ Thanks to the lockdown due to the COVID-19, I got some myself time to hone the r
 * [**Presidential Initiative for Artificial Intelligence & Computing (PIAIC)**](https://www.piaic.org/block-chain) is aimed to develop highly skilled professionals to cope up with the challenges of **Fourth Industrial Revolution**. This program offers training in cutting edge technologies like AI, Data Science, Cloud Native Computing, Edge computing, **Blockchain**, Augmented Reality, and Internet of Things (IoT)
 * [**Udacity**](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309) offers a Nanodegree program inlined with industrial requirements.
 
-## Project Schedule
+## Project Schedule and Targets
 - [x] Generate Genesis Block
 - [x] Generate Block with hash (SHA256)
 - [x] Generate 
@@ -63,7 +63,19 @@ Thanks to the lockdown due to the COVID-19, I got some myself time to hone the r
 - [ ] Implement Merkel Root
 - [ ] Generate Naunce
 - [ ] Confirmations
-- [ ] Census Algorithm (PoW, PoS)
+- [ ] Consensus Algorithm
+      - Proof ofWork
+        - [Bitcoin’s whitepaper on PoW](https://bitcoin.org/bitcoin.pdf)
+      - Proof of Stake
+        - [Ethereum’s Proof of Stake FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+           * [Block Selection methods](https://en.wikipedia.org/wiki/Proof_of_stake)
+              * Randomized block selection
+              * Coin age-based selection
+           * [Alternative Proof of Stake Methods](https://dailyfintech.com/2016/01/20/why-proof-of-stake-matters-for-blockchain/#content-wrapper)
+              * Transparent Forging 
+              * Delegated Proof of Stake
+      - Delegated Byzantine Fault Tolerance
+        * [NEO's Consensus Protocol](https://steemit.com/neo/@basiccrypto/neo-s-consensus-protocol-how-delegated-byzantine-fault-tolerance-works)
 
 ## How to Use
 
