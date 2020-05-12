@@ -64,7 +64,7 @@ Thanks to the lockdown due to the COVID-19, I got some myself time to hone the r
 - [ ] Generate Naunce
 - [ ] Confirmations
 - [ ] Consensus Algorithm
-      1. Proof ofWork
+      > 1. Proof ofWork
          - [Bitcoin’s whitepaper on PoW](https://bitcoin.org/bitcoin.pdf)
       2. Proof of Stake
          - [Ethereum’s Proof of Stake FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
