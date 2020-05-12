@@ -11,9 +11,10 @@
 </p>
 
 <div align="center">
-  <a href="https://www.paypal.me/posquit0">
+  <a href="https://paypal.me/qaziejaz?locale.x=en_US">
     <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
   </a>
+   <!--
   <a href="https://circleci.com/gh/posquit0/Awesome-CV">
     <img alt="CircleCI" src="https://circleci.com/gh/posquit0/Awesome-CV.svg?style=shield" />
   </a>
@@ -25,7 +26,8 @@
   </a>
   <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf">
     <img alt="Example Coverletter" src="https://img.shields.io/badge/coverletter-pdf-green.svg" />
-  </a>
+  </a> 
+-->
 </div>
 
 <br />
