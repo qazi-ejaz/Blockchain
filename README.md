@@ -64,22 +64,22 @@ Thanks to the lockdown due to the COVID-19, I got some myself time to hone the r
 - [ ] Generate Naunce
 - [ ] Confirmations
 - [ ] Consensus Algorithm
-      1. Proof ofWork
-      ...+ [Bitcoin’s whitepaper on PoW](https://bitcoin.org/bitcoin.pdf)
-      2. Proof of Stake
-         - [Ethereum’s Proof of Stake FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
-            - [Block Selection methods](https://en.wikipedia.org/wiki/Proof_of_stake)
-               - Randomized block selection
-               - Coin age-based selection
-            - [Alternative Proof of Stake Methods](https://dailyfintech.com/2016/01/20/why-proof-of-stake-matters-for-blockchain/#content-wrapper)
-               - Transparent Forging 
-               - Delegated Proof of Stake
-      3. Delegated Byzantine Fault Tolerance
-         - [NEO's Consensus Protocol](https://steemit.com/neo/@basiccrypto/neo-s-consensus-protocol-how-delegated-byzantine-fault-tolerance-works)
-      4. Proof Of Activity
-         - [Proof of Activity Explained: A Hybrid Consensus Algorithm](https://www.coinbureau.com/blockchain/proof-of-activity-explained-hybrid-consensus-algorithm/)
-      5. Proof Of Burn
-         - [What is Proof of Burn?](https://99bitcoins.com/what-is-proof-of-burn/)
+   1. Proof of Work
+   - [Bitcoin’s whitepaper on PoW](https://bitcoin.org/bitcoin.pdf)
+   2. Proof of Stake
+   - [Ethereum’s Proof of Stake FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+   - [Block Selection methods](https://en.wikipedia.org/wiki/Proof_of_stake)
+   - Randomized block selection
+   - Coin age-based selection
+   - [Alternative Proof of Stake Methods](https://dailyfintech.com/2016/01/20/why-proof-of-stake-matters-for-blockchain/#content-wrapper)
+   - Transparent Forging 
+   - Delegated Proof of Stake
+   3. Delegated Byzantine Fault Tolerance
+   - [NEO's Consensus Protocol](https://steemit.com/neo/@basiccrypto/neo-s-consensus-protocol-how-delegated-byzantine-fault-tolerance-works)
+   4. Proof Of Activity
+   - [Proof of Activity Explained: A Hybrid Consensus Algorithm](https://www.coinbureau.com/blockchain/proof-of-activity-explained-hybrid-consensus-algorithm/)
+   5. Proof Of Burn
+   - [What is Proof of Burn?](https://99bitcoins.com/what-is-proof-of-burn/)
 
 ## How to Use
 
