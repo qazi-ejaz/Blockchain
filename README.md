@@ -34,46 +34,19 @@
 
 ## What is Blockchain?
 
-**Blockchain** is a open, decentralized distributed ledger which carry out transcations via peer-to-peer network system. The very first concept was implemented in the form by [**Satoshi Nakamoto** Whitepaper](https://bitcoin.org/en/bitcoin-paper). It is considered the pillar of the fourth industrial revolution as its unique property of immutability makes it secure.
+**Blockchain** is an open, decentralized distributed ledger which carries out transactions via a peer-to-peer network system. The very first concept was implemented in the form of [Bitcoin](https://bitcoin.org/en/) by a genius [**Satoshi Nakamoto**](https://bitcoin.org/en/bitcoin-paper). *Blockchain* is considered the main pillar of the fourth industrial revolution.
 
 ## Donate
 
 Please help keep this project alive! Donations are welcome and will go towards further development of this project.
 
-    PayPal: paypal.me/posquit0
-    BTC: 1Je3DxJVM2a9nTVPNo55SfQwpmxA6N2KKb
-    BCH: 1Mg1wG7PwHGrHYSWS67TsGSjo5GHEVbF16
-    ETH: 0x77ED9B4659F80205E9B9C9FB1E26EDB9904AFCC7
-    QTUM: QZT7D6m3QtTTqp7s4ZWAwLtGDsoHMMaM8E
+    PayPal: paypal.me/qaziejaz
+    BTC:
+    BCH: 
+    ETH: 
+    QTUM: 
 
 *Thank you for your support!*
-
-## Preview
-
-#### Résumé
-
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
-
-| Page. 1 | Page. 2 |
-|:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf) |
-
-#### Cover Letter
-
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
-
-| Without Sections | With Sections |
-|:---:|:---:|
-| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf) |
-
-
-## Quick Start
-
-* [**Edit Résumé on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
-* [**Edit Cover Letter on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv-cover-letter/pfzzjspkthbk)
-
-**_Note:_ Above services do not guarantee up-to-date source code of Awesome CV**
-
 
 ## How to Use
 
@@ -87,21 +60,17 @@ You can [install TeX from upstream](http://tex.stackexchange.com/q/1092) (recomm
 At a command prompt, run
 
 ```bash
-$ xelatex {your-cv}.tex
+$ npm install crypto-js
+$ npm init
 ```
 
-This should result in the creation of ``{your-cv}.pdf``
+This should result in the creation of ``package.json``
 
 
-## Credit
+## Inspiration
 
-[**LaTeX**](http://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
-
-[**LaTeX FontAwesome**](https://github.com/furl/latex-fontawesome) is bindings for FontAwesome icons to be used in XeLaTeX.
-
-[**Roboto**](https://github.com/google/roboto) is the default font on Android and ChromeOS, and the recommended font for Google’s visual language, Material Design.
-
-[**Source Sans Pro**](https://github.com/adobe-fonts/source-sans-pro) is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
+[**Udacity**](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
+[**Presidential Initiative for Artificial Intelligence & Computing (PIAIC)**](https://www.piaic.org/block-chain) The mission of this program is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies. Experts are calling this the 4^th industrial revolution. We want Pakistan to become a global hub for AI, data science, cloud native computing, edge computing, blockchain, augmented reality, and internet of things.
 
 
 ## Contact
@@ -115,4 +84,4 @@ Good luck!
 
 ## See Also
 
-* [Awesome Identity](https://github.com/posquit0/hugo-awesome-identity) - A single-page Hugo theme to introduce yourself.
+* [Latex Beamer Projects](https://github.com/posquit0/hugo-awesome-identity) - A single-page Hugo theme to introduce yourself.
