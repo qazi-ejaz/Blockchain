@@ -76,7 +76,10 @@ Thanks to the lockdown due to the COVID-19, I got some myself time to hone the r
               * Delegated Proof of Stake
       - Delegated Byzantine Fault Tolerance
         * [NEO's Consensus Protocol](https://steemit.com/neo/@basiccrypto/neo-s-consensus-protocol-how-delegated-byzantine-fault-tolerance-works)
-        m
+      - Proof Of Activity
+        * [Proof of Activity Explained: A Hybrid Consensus Algorithm](https://www.coinbureau.com/blockchain/proof-of-activity-explained-hybrid-consensus-algorithm/)
+      - Proof Of Burn
+        * [What is Proof of Burn?](https://99bitcoins.com/what-is-proof-of-burn/)
 
 ## How to Use
 
