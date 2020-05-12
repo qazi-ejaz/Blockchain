@@ -2,7 +2,7 @@
    4<sup>th</sup> Industrial Revolution: Blockchain
     <br />
   <a href="https://github.com/qazi-ejaz/Blockchain" title="Getting Started">
-    <img alt="Blockchain In-action" src="https://github.com/qazi-ejaz/Blockchain/blob/master/blockchain.jpg" />
+    <img alt="Blockchain In-Action" src="https://github.com/qazi-ejaz/Blockchain/blob/master/blockchain.jpg" />
   </a>
 </h1>
 
@@ -32,10 +32,9 @@
 
 <br />
 
-## What is Awesome CV?
+## What is Blockchain?
 
-**Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
-
+**Blockchain** is a open, decentralized distributed ledger which carry out transcations via peer-to-peer network system. The very first concept was implemented in the form by [**Satoshi Nakamoto** Whitepaper](https://bitcoin.org/en/bitcoin-paper). It is considered the pillar of the fourth industrial revolution as its unique property of immutability makes it secure.
 
 ## Donate
 
