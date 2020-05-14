@@ -108,4 +108,4 @@ Muchas Suerte!
 
 ## See Also
 
-* [Latex Beamer Projects](https://github.com/qazi-ejaz/Amplitude-Modulation) - Beamer Presentation for Control Systems and Programming.
+* [Latex Beamer Projects](https://github.com/qazi-ejaz/Latex-Beamer) - Beamer Presentation for Control Systems and Programming.
