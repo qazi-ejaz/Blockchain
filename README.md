@@ -59,9 +59,9 @@ Thanks to the lockdown due to the COVID-19, I got some myself time to hone the r
 - [x] Generate Genesis Block
 - [x] Generate Block with hash (SHA256)
 - [x] Generate Timestamp, Height of the block
-- [ ] Digital Assets
-- [ ] Proof of Existence
-- [ ] Basic Private-to-Public Blockchain Integration
+- [x] Digital Assets
+- [x] Proof of Existence
+- [x] Basic Private-to-Public Blockchain Integration
 - [ ] Implemention of Merkel Root
 - [ ] Nonce
 - [ ] Confirmations
